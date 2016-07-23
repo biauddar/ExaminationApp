@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     ]
     
     
+    
     @IBOutlet weak var kekka: UILabel!
     
     /// 選択中の演算子
