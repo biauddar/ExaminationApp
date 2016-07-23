@@ -35,8 +35,6 @@ class ViewController: UIViewController {
         
         
         
-        
-        
         let result = Int(value1.text!)! + Int(value2.text!)!
         
         // TODO: 計算結果ラベルの値を書き換えるようにする
