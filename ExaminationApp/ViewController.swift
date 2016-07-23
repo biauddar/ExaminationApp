@@ -31,7 +31,8 @@ class ViewController: UIViewController {
     /// 計算実行ボタン押下時の処理
     @IBAction private func calcurate(_: UIButton) {
      
-            
+        
+        
         
         
         
